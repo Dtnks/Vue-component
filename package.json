@@ -1,0 +1,23 @@
+{
+  "name": "vue-component",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000V\u0000u\u0000e\u0000-\u0000c\u0000o\u0000m\u0000p\u0000o\u0000n\u0000e\u0000n\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^7.0.1",
+    "vue": "^3.5.17"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^6.0.0"
+  }
+}
